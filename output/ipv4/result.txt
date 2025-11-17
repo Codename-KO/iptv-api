@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-17 06:26:19,http://106.53.99.30/tv/hk.php?id=fhzw
+2025-11-17 18:40:56,http://106.53.99.30/tv/hk.php?id=fhzw
 
 📺央视频道,#genre#
 
@@ -9,7 +9,6 @@
 
 🌊港·澳·台,#genre#
 凤凰中文,http://106.53.99.30/tv/hk.php?id=fhzw
-凤凰香港,http://106.53.99.30/tv/hk.php?id=fhxg
 
 🎬电影频道,#genre#
 
