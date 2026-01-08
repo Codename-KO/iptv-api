@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-08 19:26:46,http://rihou.cc:555/tv/[Pd]凤凰中文
+2026-01-09 06:36:34,http://rihou.cc:555/tv/[Pd]凤凰中文
 
 📺央视频道,#genre#
 
@@ -15,6 +15,5 @@
 🎬电影频道,#genre#
 
 🏛经典剧场,#genre#
-水浒传,http://tv.ximix.us/yy/1353873252
 
 🪁动画频道,#genre#
