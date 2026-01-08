@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-08 06:31:25,url
+2026-01-08 19:26:46,http://rihou.cc:555/tv/[Pd]凤凰中文
 
 📺央视频道,#genre#
 
@@ -8,9 +8,13 @@
 📡卫视频道,#genre#
 
 🌊港·澳·台,#genre#
+凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
+凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
+凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
 
 🎬电影频道,#genre#
 
 🏛经典剧场,#genre#
+水浒传,http://tv.ximix.us/yy/1353873252
 
 🪁动画频道,#genre#
