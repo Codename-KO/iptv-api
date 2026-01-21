@@ -1,17 +1,17 @@
 🕘️更新时间,#genre#
-2026-01-21 18:42:24,http://43.251.226.89:8080/play/1562.m3u8
+2026-01-22 06:38:32,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1769032851-84d5adad0ae155787dca312edd8b2c21-0-91853849adaecfce4c1a72f86891b084
 
 📺央视频道,#genre#
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
+浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1769032851-84d5adad0ae155787dca312edd8b2c21-0-91853849adaecfce4c1a72f86891b084
 
 🌊港·澳·台,#genre#
 
 🎬电影频道,#genre#
 
 🏛经典剧场,#genre#
-水浒传,http://43.251.226.89:8080/play/1562.m3u8
 
 🪁动画频道,#genre#
