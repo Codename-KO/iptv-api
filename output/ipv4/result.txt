@@ -1,11 +1,12 @@
 🕘️更新时间,#genre#
-2026-03-12 06:35:50,url
+2026-03-12 18:52:42,https://live-cdn-v01.lalifeier.eu.org/hntv/hnws.m3u8?t=1773309177&key=370d366feec98f208c4b5459c6ab851a
 
 📺央视频道,#genre#
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
+河南卫视,https://live-cdn-v01.lalifeier.eu.org/hntv/hnws.m3u8?t=1773309177&key=370d366feec98f208c4b5459c6ab851a
 
 🌊港·澳·台,#genre#
 
