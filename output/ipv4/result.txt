@@ -1,12 +1,11 @@
 🕘️更新时间,#genre#
-2026-04-15 19:17:29,https://iptv.catvod.com/live.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&line=2
+2026-04-16 06:51:50,url
 
 📺央视频道,#genre#
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
-三沙卫视,https://iptv.catvod.com/live.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&line=2
 
 🌊港·澳·台,#genre#
 
