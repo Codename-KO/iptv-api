@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-13 20:16:22,https://iptv.852851.xyz/ch/13eaf1f8e1b5a94d2350dccab165849a/master.m3u8
+2026-05-14 07:13:50,url
 
 📺央视频道,#genre#
 
@@ -10,7 +10,6 @@
 🌊港·澳·台,#genre#
 
 🎬电影频道,#genre#
-靖天映画,https://iptv.852851.xyz/ch/13eaf1f8e1b5a94d2350dccab165849a/master.m3u8
 
 🏛经典剧场,#genre#
 
