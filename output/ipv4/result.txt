@@ -1,23 +1,30 @@
 🕘️更新时间,#genre#
-2026-05-22 20:34:28,https://live.264788.xyz/channel/cctv7?streamid=479fea30e7639a9aeb0d647c41d49027&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+2026-05-23 07:13:45,https://live.264788.xyz/channel/cctv1?streamid=ae1fc95449a7d4a13c53490cbcae614f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 📺央视频道,#genre#
-CCTV-7,https://live.264788.xyz/channel/cctv7?streamid=479fea30e7639a9aeb0d647c41d49027&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-1,https://live.264788.xyz/channel/cctv1?streamid=ae1fc95449a7d4a13c53490cbcae614f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-2,https://live.264788.xyz/channel/cctv2?streamid=c3edafc99edcc1ce06b8b70805554284&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-3,https://live.264788.xyz/channel/cctv3?streamid=bf8db09e1cc53a2b7ab59e4f4ed11a20&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-4,https://live.264788.xyz/channel/cctv4?streamid=fd1184358330cda8bca2c2b1e36355f0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-6,https://live.264788.xyz/channel/cctv6?streamid=c89a4225ad5c8ee02dc7ea15ac47cfb9&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-9,https://live.264788.xyz/channel/cctv9?streamid=965471f22871b869185fa44895550cf6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CCTV-14,https://live.264788.xyz/channel/cctv14?streamid=c1b1baab75f3bdd8eece6892ec6b0c8b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
-广东卫视,https://live.264788.xyz/channel/guangdongweishi?streamid=cb79f80b1c81ba01a6cc0f96cb127c4a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-浙江卫视,https://live.264788.xyz/channel/zhejiangweishi?streamid=fd3b4ddfd1dabea05102cd13ed0320c1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=55aa70b744ce4863ca4f21755ce7821f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+北京卫视,https://live.264788.xyz/channel/beijingweishi?streamid=827ecb21a6a263faddc5d2aa1887dbc7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 湖北卫视,https://live.264788.xyz/channel/hubeiweishi?streamid=501fea86d3931580a92805df154b7002&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+黑龙江卫视,https://live.264788.xyz/channel/heilongjiangweishi?streamid=27c452e19181479d8226837b53a1a598&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 重庆卫视,https://live.264788.xyz/channel/chongqingweishi?streamid=a70f858363ae250a4fbf283111a42054&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-江苏卫视,https://live.264788.xyz/channel/jiangsuweishi?streamid=01b71cbe218e3ae09ceb25b64aec1f33&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-深圳卫视,https://live.264788.xyz/channel/shenzhenweishi?streamid=1371e3dfea2fb75cd0fb6e0b1fb6a33a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-西藏卫视,https://live.264788.xyz/channel/xizangweishi?streamid=b1074802469551526bb63c33e26c400c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-新疆卫视,https://live.264788.xyz/channel/xinjiangweishi?streamid=570125986bb42033088f88339c1bf28d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+东南卫视,https://live.264788.xyz/channel/dongnanweishi?streamid=9e74f5aa0d2f3055fb2f682bd1b72cc4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+海南卫视,https://live.264788.xyz/channel/hainanweishi?streamid=ca8d591103c2814acc3d0a2fb10bdbd6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+河北卫视,https://live.264788.xyz/channel/hebeiweishi?streamid=dc05a5197d73d3781c8d021d081f03ac&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=7fdadcba8461aab49da5692b00071289&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+四川卫视,https://live.264788.xyz/channel/sichuanweishi?streamid=ee4e9252618099b2505fd3875394a5ba&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+天津卫视,https://live.264788.xyz/channel/tianjinweishi?streamid=d30a60392735d9a6ff2b72630d81c5d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+西藏卫视,https://live.264788.xyz/channel/xizangweishi?streamid=4b4e8ea919f1cfd5e43deed1d1675251&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 🌊港·澳·台,#genre#
 
