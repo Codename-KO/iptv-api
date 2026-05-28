@@ -1,16 +1,18 @@
 🕘️更新时间,#genre#
-2026-05-28 22:02:10,https://live.264788.xyz/channel/cctv3?streamid=d0473114041b533ea069452f29f33588&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+2026-05-29 07:25:34,https://live.264788.xyz/channel/cctv1?streamid=7d30132546d771c3ffff77a937dee30d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 📺央视频道,#genre#
+CCTV-1,https://live.264788.xyz/channel/cctv1?streamid=7d30132546d771c3ffff77a937dee30d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-3,https://live.264788.xyz/channel/cctv3?streamid=d0473114041b533ea069452f29f33588&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-6,https://live.264788.xyz/channel/cctv6?streamid=594ab401db67c9a1a87d9419543149ff&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-11,https://live.264788.xyz/channel/cctv11?streamid=c69f5433fa130011553d458dc212c18b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-12,https://live.264788.xyz/channel/cctv12?streamid=7274a33e11b479af1bb9e15efd258e4b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-13,https://live.264788.xyz/channel/cctv13?streamid=9ea97cd43bafe3b9e0250240d221d0e2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
-黑龙江卫视,https://live.264788.xyz/channel/heilongjiangweishi?streamid=43810153d9094bbea29e4ee654e3b919&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-广西卫视,https://live.264788.xyz/channel/guangxiweishi?streamid=8ab7b2c62ce04e8d7baf78a540bd7ea5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-河北卫视,https://live.264788.xyz/channel/hebeiweishi?streamid=01d478d44fe737acb1a6634cc26dd89c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=30d96b04c45b2b8bce197c9a7b4077c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 🌊港·澳·台,#genre#
 
